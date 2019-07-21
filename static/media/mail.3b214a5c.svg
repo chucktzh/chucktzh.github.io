@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="22" height="22" rx="3"></rect>
+        <g transform="translate(3.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero" id="Shape">
+            <path d="M14.4,0 L1.60000001,0 C0.720000018,0 1.87499999e-08,0.675000001 0,1.5 L0,10.5 C0,11.325 0.719999999,12 1.60000001,12 L14.4,12 C15.28,12 16,11.325 16,10.5 L16,1.5 C16,0.675000001 15.28,4.99600362e-16 14.4,4.99600362e-16 Z M14.4,2.99999999 L8,6.75000001 L1.60000001,2.99999999 L1.60000001,1.5 L8,5.24999999 L14.4,1.5 L14.4,2.99999999 Z"></path>
+        </g>
+    </g>
+</svg>
